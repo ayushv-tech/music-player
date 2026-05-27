@@ -38,10 +38,4 @@ Music-Player
 
 ## 🌐 Live Demo
 
-Add your GitHub Pages link here.
-
-## 📸 Screenshot
-
-Add screenshot here.
-
-## 👨‍💻 Author
+https://ayushv-tech.github.io/music-player/
