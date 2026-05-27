@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.music-player{
+    background-color: #222;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+img{
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+    button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    border: none;
+    margin: 10px;
+    font-size: 18px;
+    cursor: pointer;
+    background: #444;
+    color: white;
+    transition: 0.3s;
+}
+
+button:hover{
+    background: #c061ff;
+    transform: scale(1.1);
+}
+#progress,
+#volume{
+    width: 80%;
+    margin-top: 15px;
+    accent-color: #c061ff;
+}
+
+.music-player{
+    width: 300px;
+}
